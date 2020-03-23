@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Okhttp</string>
+    <string name="networkFailed">Network Request not reachable.</string>
+</resources>
